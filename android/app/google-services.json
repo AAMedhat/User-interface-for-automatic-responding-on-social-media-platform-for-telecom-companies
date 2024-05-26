@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "465608791758",
+    "project_id": "rakna-5d578",
+    "storage_bucket": "rakna-5d578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465608791758:android:c427329167cdbc815ae29f",
+        "android_client_info": {
+          "package_name": "com.example.rakna_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465608791758-rdja4062grrvn5rls532o9t4q5migv94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rakna_2",
+            "certificate_hash": "49fb0fe8ec8001186a6e056895d5d4c9a940d6a1"
+          }
+        },
+        {
+          "client_id": "465608791758-dqpti47q3nepnpidrids53g58p84avqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ8nwQnBtYAzl6MZdYa4eswd5422sZJXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465608791758-dqpti47q3nepnpidrids53g58p84avqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
