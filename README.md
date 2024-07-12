@@ -13,3 +13,4 @@ Dart used Android Studio/VS code to develop mobile applications,
 Flutter, 
 Firebase for database, 
 Figma to design mobile application UI (https://www.figma.com/file/7WlqeAGAa5QgM6YMeqvVGD/CommuniTel?type=design&node-id=900-285&mode=design&t=1JTOaI8RhIKdyUFZ-0)
+![Cover](https://github.com/user-attachments/assets/c5db016f-d31a-4b32-9fa7-4c474c80974d)
