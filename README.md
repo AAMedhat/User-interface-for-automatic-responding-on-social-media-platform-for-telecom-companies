@@ -28,6 +28,12 @@ Before you begin, ensure you have the following installed on your system:
 
 Python 3.8 or later
 
+
+# Contributing
+
+Contributions are welcome! Please submit a pull request or open an issue to discuss improvements or bugs.
+
+
 Dart and Flutter SDK
 
 Android Studio or VS Code
