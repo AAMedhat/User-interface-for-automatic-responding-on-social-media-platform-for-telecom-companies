@@ -27,7 +27,7 @@ Mobile App Source Code: Developed using Dart and Flutter.
 ### Before you begin, ensure you have the following installed on your system:
 
 * Python 3.8 or later
-* 
+
 * Dart and Flutter SDK
 
 * Android Studio or VS Code
